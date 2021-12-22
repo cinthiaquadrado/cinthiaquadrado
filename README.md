@@ -2,8 +2,6 @@
 - 👋 29 anos, jornalista formada pela Unesp de Bauru.
 - 💻 Atualmente, estou estudando programação.
 - 📫 Vamos conversar? cinthiayumi10@hotmail.com
-
-##
  
 <div> 
   <a href="https://instagram.com/cinthiaquadrado" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
