@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/cinthiaquadrado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cinthiaquadrado&show_icons=false&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiaquadrado&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cinthiaquadrado&show_icons=false&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiaquadrado&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
 <div style="display: inline_block"><br>
