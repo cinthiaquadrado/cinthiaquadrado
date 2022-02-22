@@ -1,6 +1,6 @@
 😊 Olá, eu sou a Cinthia! </br>
 👋 29 anos, jornalista formada pela Unesp de Bauru. </br>
-💻 Atualmente, estou estudando Ciência da Computação. </br>
+💻 Atualmente, estou estudando para ser desenvolvedora Front-End. </br>
 💬 Vamos conversar? 
 
 <div> 
