@@ -1,4 +1,4 @@
-😊 Olá, eu sou a Cinthia! </br>
+## 😊 Olá, eu sou a Cinthia! </br>
 👋 29 anos, jornalista formada pela Unesp de Bauru. </br>
 💻 Fui aprovada no curso Interdisciplinar de Ciência e Tecnologia da UFABC.<br>
 💬 Vamos conversar?
