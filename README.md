@@ -1,7 +1,7 @@
 😊 Olá, eu sou a Cinthia! </br>
 👋 29 anos, jornalista formada pela Unesp de Bauru. </br>
 💻 Fui aprovada no curso Interdisciplinar de Ciência e Tecnologia da UFABC.<br>
-💬 Estou estudando para me tornar uma desenvolvedora Front-End.
+💬 Vamos conversar?
 
 ## Linguagens
 <div style="display: inline_block">
