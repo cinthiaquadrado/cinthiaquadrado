@@ -1,4 +1,4 @@
-### Olá, eu sou a Cinthia! 👋</br>
+### Hi! I'm Cinthia Quadrado 👋</br>
 Frontend developer familiar with HTML, CSS, Javascript, Bootstrap, Sass, Python and Agile methodology (Scrum and Kanban). I am also proficient in corporative communication, public relations, data analysis and social media.
 
 ## Technologies and tools
