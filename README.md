@@ -18,7 +18,7 @@ Frontend developer familiar with HTML, CSS, Javascript, Bootstrap, Sass, Python 
 </div>
   
 ## My resume
-[Clique aqui para acessar.](https://github.com/cinthiaquadrado/cv-cinthia-quadrado)
+[Download a copy of my resume](https://github.com/cinthiaquadrado/cv-cinthia-quadrado)
 
 ## Contact me!
 <div align="left"> 
