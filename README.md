@@ -20,9 +20,6 @@ Frontend developer familiar with HTML, CSS, Javascript, Bootstrap, Sass, Python 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cinthiaquadrado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiaquadrado&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
-## My resume
-[Download a copy of my resume](https://github.com/cinthiaquadrado/cv-cinthia-quadrado)
 
 ## Contact me!
 <div align="left"> 
