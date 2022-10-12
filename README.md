@@ -1,5 +1,5 @@
 ### Hi! I'm Cinthia Quadrado 👋</br>
-Frontend developer familiar with HTML, CSS, Javascript, Bootstrap, Sass, Python and Agile methodology. I am also proficient in corporative communication, public relations, data analysis and social media.
+Frontend developer familiar with HTML, CSS, Javascript, Bootstrap, Sass, Python and Agile methodology. I am also proficient in corporative communication, PR, data analysis and social media.
 
 ## Technologies and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
