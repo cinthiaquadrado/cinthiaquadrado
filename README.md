@@ -14,13 +14,6 @@ Journalist and developer familiar with HTML, CSS, Javascript, Bootstrap, Sass, P
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## Statistics
-<div align="left">
-  <a href="https://github.com/cinthiaquadrado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cinthiaquadrado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiaquadrado&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ## Contact me!
 <div align="left"> 
   <a href="https://instagram.com/cinthiaquadrado" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
