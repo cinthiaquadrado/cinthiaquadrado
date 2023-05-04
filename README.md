@@ -1,18 +1,5 @@
 ### Hi! I'm Cinthia Quadrado 👋</br>
-Journalist and developer familiar with HTML, CSS, Javascript, Bootstrap, Sass, Python, SQL and Agile methodology. I am also proficient in corporative communication, PR, data analysis and social media.
-
-## Technologies and tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+I am a Communication professional with over 10 years of experience in strategic planning, content production, and social media management. Currently, I am studying Science and Technology at UFABC and working at Itaú Unibanco with process automation and data analysis. I am passionate about technology and always seeking to stay up-to-date with market trends. I have knowledge of Python, SQL, and data analysis.
 
 ## Contact me!
 <div align="left"> 
