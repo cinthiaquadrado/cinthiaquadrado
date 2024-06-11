@@ -1,7 +1,7 @@
 ### Hi! I'm Cinthia Quadrado 👋</br>
-I am a Communication professional with over 10 years of experience in strategic planning, writing and social media management. Currently, I am studying Science and Technology at UFABC and working with process automation and data analysis. I am passionate about technology and always seeking to stay up-to-date with market trends. 
+I am a Communication professional with experience in strategic planning, writing, and social media management. Currently, I'm studying Science and Technology at UFABC and working with Business Analysis at Amazon. I'm passionate about technology and always eager to stay up-to-date with market trends.
 
-Keywords: Python, SQL, Power BI, Tableau, Excel, Alteryx, Business Intelligence.
+Skills: Python, SQL, Power BI, Tableau, Excel, Alteryx, Git, GitHub, Business Intelligence, Data Analytics.
 
 ## Contact me!
 <div align="left"> 
