@@ -1,7 +1,9 @@
 ### Hi! I'm Cinthia Quadrado 👋</br>
-I am a Communication professional with experience in strategic planning, writing, and social media management. Currently, I'm studying Science and Technology at UFABC and working with Business Analysis at Amazon. I'm passionate about technology and always eager to stay up-to-date with market trends.
+Currently pursuing a bachelor degree in Science and Technology at UFABC, I'm a Business Analyst Intern at Amazon (BR Payments), where I combine my passion for technology with data-driven insights. I'm always eager to stay ahead of market trends and apply innovative solutions.
 
-Skills: Python, SQL, Power BI, Tableau, Excel, Alteryx, Git, GitHub, Business Intelligence, Data Analytics.
+I’m also a Communication professional with expertise in strategic planning, writing, and social media management. 
+
+Key skills: Python, SQL, Power BI, Tableau, Excel, Alteryx, Git, GitHub, Business Intelligence, and Data Analytics.
 
 ## Contact me!
 <div align="left"> 
